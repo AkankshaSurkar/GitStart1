@@ -1,6 +1,6 @@
 var item = document.querySelector('.list-group-item');
  
-var secoundItem = document.querySelector('.list-group-item:nth-Child(2)');
+var secoundItem = document.querySelector('.list-group-item:nth-child(2)');
 secoundItem.style.backgroundColor = 'green';
 
 
